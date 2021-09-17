@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\bin\Debug\WebSocketServer.exe.config
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\bin\Debug\WebSocketServer.exe
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\bin\Debug\WebSocketServer.pdb
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\obj\Debug\WebSocketServer.exe
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\obj\Debug\WebSocketServer.pdb
+C:\Users\Admin\Desktop\thi_LTM\WebSocketServer\bin\Debug\Fleck.dll
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\bin\Debug\WebSocketServer.exe.config
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\obj\Debug\WebSocketServer.exe
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\obj\Debug\WebSocketServer.pdb
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\bin\Debug\WebSocketServer.exe
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\bin\Debug\WebSocketServer.pdb
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\bin\Debug\Fleck.dll
+C:\Users\Admin\Desktop\3117500023_PhamNguyenQuocHung\LTM\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B2BE9A0C-AB14-47D8-A60F-A8B2DB576C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{8DD5C413-DA65-4BE5-BF33-ED2A375B6427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketServer", "WebSocketServer\WebSocketServer.csproj", "{36624207-B127-43AD-AE32-98538CF0BCA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketClient", "WebSocketClient\WebSocketClient.csproj", "{EC34290C-5931-40A0-89A3-D95EE7A28205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BE9A0C-AB14-47D8-A60F-A8B2DB576C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BE9A0C-AB14-47D8-A60F-A8B2DB576C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BE9A0C-AB14-47D8-A60F-A8B2DB576C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BE9A0C-AB14-47D8-A60F-A8B2DB576C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD5C413-DA65-4BE5-BF33-ED2A375B6427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD5C413-DA65-4BE5-BF33-ED2A375B6427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD5C413-DA65-4BE5-BF33-ED2A375B6427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD5C413-DA65-4BE5-BF33-ED2A375B6427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36624207-B127-43AD-AE32-98538CF0BCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36624207-B127-43AD-AE32-98538CF0BCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36624207-B127-43AD-AE32-98538CF0BCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36624207-B127-43AD-AE32-98538CF0BCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC34290C-5931-40A0-89A3-D95EE7A28205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC34290C-5931-40A0-89A3-D95EE7A28205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC34290C-5931-40A0-89A3-D95EE7A28205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC34290C-5931-40A0-89A3-D95EE7A28205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
