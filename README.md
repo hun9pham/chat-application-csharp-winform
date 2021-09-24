@@ -78,3 +78,5 @@ Author - [PHAM NGUYEN QUOC HUNG](https://hun9pham.github.io) - hungpham99er@gmai
 
 Project Link: [Souce code](https://github.com/hun9pham/chat-application-csharp-winform.git)
 
+## References
+
