@@ -60,7 +60,6 @@ Run client execute three times corresponding to three accounts and login. After 
 ├── Server					
       ├── bin\Debug\Server.exe  : File server execute (run this first)
 ├── WebSocketClient			
-      ├── Source
 ├── WebSocketServer			
 ├── packages				
 ├── TCPChat.sln
