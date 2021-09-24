@@ -49,8 +49,8 @@ Run client execute three times corresponding to three accounts and login. After 
 ### Project Structure
 
 ```
-├── README.md              			: Description of project
-├── images              			: Folder contains images of project
+├── README.md              	: Description of project
+├── images              	: Folder contains images of project
       ├── img1.png
       ├── img2.png
       ├── img3.png
