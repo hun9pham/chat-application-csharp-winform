@@ -37,12 +37,12 @@ Project is implemented on the same computer with the computer's IP is 127.0.0.1,
 <p>
 File server execute should be run first to set up server, at the console interface will appear 3 pre-registered account information.
 <p align="center">
-  <img src="images/img2.png" width="300" title="hover text">
+  <img src="images/img2.png" width="350" title="hover text">
 </p>
 Run client execute three times corresponding to three accounts and login. After login, now the clients were able to communicate with each other. 
 <p align="center">
-  <img src="images/img3.png" width="300" title="hover text">
-  <img src="images/img4.png" width="300" title="hover text">
+  <img src="images/img3.png" width="350" title="hover text">
+  <img src="images/img4.png" width="350" title="hover text">
 </p>
 
 
